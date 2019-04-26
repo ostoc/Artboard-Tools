@@ -5,7 +5,7 @@ var userPrefs = {
   "group_spacing_x": 128,
   "group_spacing_y": 128,
   "sort_top_to_bottom": true,
-  "use_slashes": false
+  "use_slashes": true
 };
 
 var KOLOArtboardTools = {
